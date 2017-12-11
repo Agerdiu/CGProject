@@ -1,0 +1,50 @@
+﻿  Vector.cpp
+  SkyBox.cpp
+u:\testsky\testsky\objloader.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Particle.cpp
+u:\testsky\testsky\particle.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+u:\testsky\testsky\particle.cpp(41): warning C4018: “<”: 有符号/无符号不匹配
+u:\testsky\testsky\particle.cpp(53): warning C4018: “<”: 有符号/无符号不匹配
+u:\testsky\testsky\particle.cpp(66): warning C4018: “<”: 有符号/无符号不匹配
+u:\testsky\testsky\particle.cpp(77): warning C4018: “<”: 有符号/无符号不匹配
+u:\testsky\testsky\particle.cpp(89): warning C4018: “<”: 有符号/无符号不匹配
+u:\testsky\testsky\particle.cpp(101): warning C4018: “<”: 有符号/无符号不匹配
+u:\testsky\testsky\particle.cpp(112): warning C4018: “<”: 有符号/无符号不匹配
+u:\testsky\testsky\particle.cpp(125): warning C4018: “<”: 有符号/无符号不匹配
+u:\testsky\testsky\particle.cpp(140): warning C4018: “<”: 有符号/无符号不匹配
+u:\testsky\testsky\particle.cpp(151): warning C4018: “<”: 有符号/无符号不匹配
+u:\testsky\testsky\particle.cpp(163): warning C4018: “<”: 有符号/无符号不匹配
+u:\testsky\testsky\particle.cpp(177): warning C4018: “<”: 有符号/无符号不匹配
+u:\testsky\testsky\particle.cpp(186): warning C4018: “<”: 有符号/无符号不匹配
+u:\testsky\testsky\particle.cpp(196): warning C4018: “<”: 有符号/无符号不匹配
+u:\testsky\testsky\particle.cpp(207): warning C4018: “<”: 有符号/无符号不匹配
+u:\testsky\testsky\particle.cpp(216): warning C4018: “<”: 有符号/无符号不匹配
+u:\testsky\testsky\particle.cpp(226): warning C4018: “<”: 有符号/无符号不匹配
+u:\testsky\testsky\particle.cpp(237): warning C4018: “<”: 有符号/无符号不匹配
+u:\testsky\testsky\particle.cpp(246): warning C4018: “<”: 有符号/无符号不匹配
+u:\testsky\testsky\particle.cpp(257): warning C4018: “<”: 有符号/无符号不匹配
+u:\testsky\testsky\particle.cpp(275): warning C4018: “<”: 有符号/无符号不匹配
+u:\testsky\testsky\particle.cpp(307): warning C4018: “<”: 有符号/无符号不匹配
+u:\testsky\testsky\particle.cpp(339): warning C4018: “<”: 有符号/无符号不匹配
+  MS3D.cpp
+  Model.cpp
+u:\testsky\testsky\objloader.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+u:\testsky\testsky\model.cpp(7): warning C4018: “<”: 有符号/无符号不匹配
+u:\testsky\testsky\model.cpp(8): warning C4018: “<”: 有符号/无符号不匹配
+  Map.cpp
+u:\testsky\testsky\objloader.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+u:\testsky\testsky\map.cpp(10): warning C4018: “<”: 有符号/无符号不匹配
+u:\testsky\testsky\map.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+  main.cpp
+u:\testsky\testsky\objloader.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+u:\testsky\testsky\main.cpp(41): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+u:\testsky\testsky\main.cpp(157): warning C4018: “<”: 有符号/无符号不匹配
+  CBMPLoader.cpp
+  Camera.cpp
+u:\testsky\testsky\objloader.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  bullet.cpp
+u:\testsky\testsky\objloader.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  AABBbox.cpp
+  objloader.cpp
+c1xx : fatal error C1083: 无法打开源文件: “..\..\..\..\..\objloader.cpp”: No such file or directory
+  正在生成代码...
